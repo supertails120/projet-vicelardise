@@ -1,0 +1,32 @@
+html{
+    overflow: hidden;
+}
+body{
+    background: url(../img/latest.png) no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    height: 97vh;
+}
+body>img{
+    position: relative;
+    bottom: 18rem;
+    left: 79%;
+    width: 20%;
+}
+body>div>div{
+    background: url(../img/panneau.png) no-repeat;
+    background-size: 20rem;
+    height: 20rem;
+    width: 20rem;
+}
+div img{
+    width: 7rem;
+    margin: 2rem auto;
+    display: block;
+}
