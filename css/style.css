@@ -15,9 +15,9 @@ body{
 }
 body>img{
     position: relative;
-    bottom: 18rem;
-    left: 79%;
-    width: 20%;
+    bottom: 21vh;
+    right: -78%;
+    width: 18rem;
 }
 body>div>div{
     background: url(../img/panneau.png) no-repeat;
