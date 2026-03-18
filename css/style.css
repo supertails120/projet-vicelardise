@@ -24,6 +24,7 @@ body>div>div{
     background-size: 20rem;
     height: 20rem;
     width: 20rem;
+    cursor: crosshair;
 }
 div img{
     width: 7rem;
